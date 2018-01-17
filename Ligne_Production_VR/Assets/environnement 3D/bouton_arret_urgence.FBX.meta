@@ -37,7 +37,17 @@ ModelImporter:
     4300002: Boss.-Extru.6
     4300004: "Enl\xE8v. mat.-Extru.3"
     4300006: Cylinder001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 6e550098269a9d34980507e28c301bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #70'
+    second: {fileID: 2100000, guid: d924be18b90b79d4e817efed7be250b9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
